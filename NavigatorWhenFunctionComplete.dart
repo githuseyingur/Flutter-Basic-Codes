@@ -1,4 +1,4 @@
-// You can use this for SPLASH SCREEN
+// You can use this for SPLASH SCREEN 
  
 
 void initState() {
