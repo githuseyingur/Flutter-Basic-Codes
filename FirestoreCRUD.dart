@@ -18,5 +18,5 @@ await Firestore.instance.collection("collection_name").document("document_id").u
   "field_2": "new_value_2"
 });
 
-// Delete data in Firestore
+// Delete data in Firestore 
 await Firestore.instance.collection("collection_name").document("document_id").delete();
