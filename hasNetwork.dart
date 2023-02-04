@@ -1,3 +1,5 @@
+//this code checks the device's internet connection
+
 void initState() {
     SystemChrome.setEnabledSystemUIMode(SystemUiMode.immersiveSticky, overlays: []);
     Future.delayed(Duration(seconds: 1), () async{
